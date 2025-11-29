@@ -1,9 +1,10 @@
 numpy
 pandas
-sckit_learn
+sckit-learn
 joblib
 scipy
 seaborn
 #imbalance-learn
 
 ##on l'execute avec pip install requirements
+
