@@ -1,10 +1,9 @@
 numpy
 pandas
-sckit-learn
+scikit-learn==1.5.1
 joblib
 scipy
 seaborn
-#imbalance-learn
+plotly
 
-##on l'execute avec pip install requirements
 
